@@ -1,7 +1,10 @@
 anomaly_detection
 ==============================
 
-A benchmark of different deep learning models on the MVTec_AD dataset.
+This project focuses on anomaly detection using the MVTEC AD dataset, a benchmark containing over 5,000 images across 15 classes of manufacturing defects such as scratches, cracks, bubbles, and deformations. We implement and evaluate state-of-the-art models, including SPADE, PatchCore, PaDiM, RIAD, and Normalizing Flow, to identify anomalies in industrial products.
+
+Our goal is to compare these models and determine the most effective approach for detecting various anomaly types across different scales and patterns.
+
 
 Project Organization
 ------------
